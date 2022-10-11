@@ -8,15 +8,15 @@
 
 
 ### Здесь мои примеры работ: / Here are my examples of work:
- [Тест план / Test plan](https://github.com/Tokehos/Test-plan)
+### [Тест план / Test plan](https://github.com/Tokehos/Test-plan)
 
-[Чек лист / Check List](https://github.com/Tokehos/Check-list) 
+### [Чек лист / Check List](https://github.com/Tokehos/Check-list) 
 
-[Тестовые сценарий / Test Case](https://github.com/Tokehos/Test-Case) 
+### [Тестовые сценарий / Test Case](https://github.com/Tokehos/Test-Case) 
 
-[Баг репорт / Bug Report](https://github.com/Tokehos/Bug-report) 
+### [Баг репорт / Bug Report](https://github.com/Tokehos/Bug-report) 
 
-[Отчет о тестировании / Test Report](https://github.com/Tokehos/Test-report)
+### [Отчет о тестировании / Test Report](https://github.com/Tokehos/Test-report)
 
 
 
