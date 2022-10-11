@@ -1,6 +1,6 @@
 ![Header](https://github.com/Tokehos/Tokehos/blob/main/assets/logo.bmp)
 
-Обо мне
+## Я начинающий тестировщик / I'm a begginer QA engineer
 
 Примеры работ
 
