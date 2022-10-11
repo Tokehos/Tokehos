@@ -14,7 +14,7 @@
 
 ### [Тестовые сценарий / Test Case](https://github.com/Tokehos/Test-Case) 
 
-### [Баг репорт / Bug Report](https://github.com/Tokehos/Bug-report) 
+### [Баг репорт / Bug Report](https://github.com/Tokehos/Bug-report/issues/) 
 
 ### [Отчет о тестировании / Test Report](https://github.com/Tokehos/Test-report)
 
