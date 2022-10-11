@@ -12,7 +12,7 @@
 
 ### [Чек лист / Check List](https://github.com/Tokehos/Check-list) 
 
-### [Тестовые сценарий / Test Case](https://github.com/Tokehos/Test-Case) 
+### [Тестовый сценарий / Test Case](https://github.com/Tokehos/Test-Case) 
 
 ### [Баг репорт / Bug Report](https://github.com/Tokehos/Bug-report/issues/) 
 
