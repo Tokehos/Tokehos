@@ -30,4 +30,4 @@
 
 Ссылки на соц сети:
 
-![flutter](https://img.shields.io/badge/Telegram-1F1E1F?style=for-the-badge&logo=telegram)   ![flutter](https://img.shields.io/badge/linkedin-1F1E1F?style=for-the-badge&logo=linkedin)  
+[![flutter](https://img.shields.io/badge/Telegram-1F1E1F?style=for-the-badge&logo=telegram)](https://t.me/tokehos)   ![flutter](https://img.shields.io/badge/linkedin-1F1E1F?style=for-the-badge&logo=linkedin)  
