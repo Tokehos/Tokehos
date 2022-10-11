@@ -16,6 +16,7 @@
 ![flutter](https://img.shields.io/badge/JAVA-1F1E1F?style=for-the-badge&logo=java)   
 ![flutter](https://img.shields.io/badge/GitHub-1F1E1F?style=for-the-badge&logo=github)
 
-Ссылки на соц сети
+Ссылки на соц сети:
+
 ![flutter](https://img.shields.io/badge/Telegram-1F1E1F?style=for-the-badge&logo=telegram)  
 ![flutter](https://img.shields.io/badge/linkedin-1F1E1F?style=for-the-badge&logo=linkedin)  
