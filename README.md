@@ -1,4 +1,4 @@
-![Header](https://github.com/Tokehos/Tokehos/blob/main/assets/logo.bmp)
+![Header](https://github.com/Tokehos/Tokehos/blob/main/assets/logo_nrw.bmp)
 
 ## Меня зовут Лиукконен Максим / My name is Liukkonen Maksim
 ### Я начинающий тестировщик / I'm a begginer QA engineer
