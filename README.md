@@ -3,8 +3,12 @@
 ## Меня зовут Лиукконен Максим / My name is Liukkonen Maksim
 ### Я начинающий тестировщик / I'm a begginer QA engineer
 
+### [Моё резюме: / My CV](https://drive.google.com/file/d/1lhI__d0TnvkC116mJvR_p2THZOC4LB8h/view?usp=sharing)
+
+
+
 ### Здесь мои примеры работ: / Here are my examples of work:
-[Тест план / Test plan](https://github.com/Tokehos/Test-plan)
+ [Тест план / Test plan](https://github.com/Tokehos/Test-plan)
 
 [Чек лист / Check List](https://github.com/Tokehos/Check-list) 
 
